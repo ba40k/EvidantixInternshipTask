@@ -105,7 +105,7 @@ model = AutoModelForTokenClassification.from_pretrained(
     ignore_mismatched_sizes=True
 )
 
-# ⚙️ Расширенные метрики
+#  Расширенные метрики
 def compute_metrics(p):
     predictions, labels = p
     predictions = np.argmax(predictions, axis=2)
@@ -170,5 +170,5 @@ if __name__ == "__main__":
     
     # Сохранение лучшей модели
     trainer.save_model("ner-product-model")
-    print("✅ Обучение завершено. Модель сохранена")
+    print(" Обучение завершено. Модель сохранена")
     print("Итоговые метрики:", trainer.evaluate())
