@@ -18,9 +18,9 @@ S
 - **Training Data**: Custom BIO-tagged dataset of furniture product names
 - **Labels**: `["O", "B-PRODUCT", "I-PRODUCT"]`
 - **Key Metrics**:
-  - F1 Score: 0.87
-  - Precision: 0.86
-  - Recall: 0.88
+  - F1 Score: 0.58
+  - Precision: 0.57
+  - Recall: 0.60
 
 ### Key Features
 - **Intelligent Text Extraction**: Focuses on product-relevant page sections
@@ -29,13 +29,14 @@ S
 
 ## Performance Metrics
 Classification Report:
-                  precision    recall   f1-score    support
 
-     PRODUCT         0.86       0.88      0.87        48
+                precision    recall  f1-score   support
 
-     micro avg       0.86       0.88      0.87        48
-     macro avg       0.86       0.88      0.87        48
-     weighted avg    0.86       0.88      0.87        48
+     PRODUCT       0.57       0.60      0.58       105
+     micro avg     0.57       0.60      0.58       105
+     macro avg     0.57       0.60      0.58       105 
+     weighted avg  0.57       0.60      0.58       105
+
 - 1771 tokens for training
 - 404 tokens for validation
 
