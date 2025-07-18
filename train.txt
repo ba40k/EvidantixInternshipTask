@@ -1,3 +1,9132 @@
+Wooden	B-PRODUCT
+chair	I-PRODUCT
+
+Wooden	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+Wooden	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+Wooden	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+Wooden	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+Wooden	B-PRODUCT
+fauteuli	I-PRODUCT
+
+Wooden	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Wooden	B-PRODUCT
+Recliner	I-PRODUCT
+
+Wooden	B-PRODUCT
+stool	I-PRODUCT
+
+Wooden	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+Wooden	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+Wooden	B-PRODUCT
+tuffet	I-PRODUCT
+
+Wooden	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+Wooden	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+Wooden	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+Wooden	B-PRODUCT
+Poufy	I-PRODUCT
+
+Wooden	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+Wooden	B-PRODUCT
+Bench	I-PRODUCT
+
+Wooden	B-PRODUCT
+couch	I-PRODUCT
+
+Wooden	B-PRODUCT
+Accubita	I-PRODUCT
+
+Wooden	B-PRODUCT
+Canape	I-PRODUCT
+
+Wooden	B-PRODUCT
+Davenport	I-PRODUCT
+
+Wooden	B-PRODUCT
+Klinai	I-PRODUCT
+
+Wooden	B-PRODUCT
+Divan	I-PRODUCT
+
+Wooden	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+Wooden	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+Wooden	B-PRODUCT
+Bed	I-PRODUCT
+
+Wooden	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+Wooden	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+Wooden	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+Wooden	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+Wooden	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+Wooden	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+Wooden	B-PRODUCT
+Waterbed	I-PRODUCT
+
+Wooden	B-PRODUCT
+Daybed	I-PRODUCT
+
+Wooden	B-PRODUCT
+Futon	I-PRODUCT
+
+Wooden	B-PRODUCT
+Hammock	I-PRODUCT
+
+Wooden	B-PRODUCT
+Headboard	I-PRODUCT
+
+Wooden	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+Wooden	B-PRODUCT
+Convertible	I-PRODUCT
+
+Wooden	B-PRODUCT
+cradle	I-PRODUCT
+
+Wooden	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+Wooden	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+Wooden	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+Wooden	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+Wooden	B-PRODUCT
+Gramophone	I-PRODUCT
+
+Wooden	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+Wooden	B-PRODUCT
+Jukebox	I-PRODUCT
+
+Wooden	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+Wooden	B-PRODUCT
+Radiogram	I-PRODUCT
+
+Wooden	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+Wooden	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+Wooden	B-PRODUCT
+Piano	I-PRODUCT
+
+Wooden	B-PRODUCT
+TV	I-PRODUCT
+
+Wooden	B-PRODUCT
+Countertop	I-PRODUCT
+
+Wooden	B-PRODUCT
+Chabudai	I-PRODUCT
+
+Wooden	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+Desk	I-PRODUCT
+
+Wooden	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+Wooden	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+Wooden	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+Wooden	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+Wooden	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+Wooden	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+Wooden	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+Wooden	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Wooden	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+Wooden	B-PRODUCT
+Korsi	I-PRODUCT
+
+Wooden	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+Wooden	B-PRODUCT
+Soban	I-PRODUCT
+
+Wooden	B-PRODUCT
+Table	I-PRODUCT
+
+Wooden	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+Wooden	B-PRODUCT
+Washstand	I-PRODUCT
+
+Wooden	B-PRODUCT
+Workbench	I-PRODUCT
+
+Wooden	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+Wooden	B-PRODUCT
+Bookcase	I-PRODUCT
+
+Wooden	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+Wooden	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+Wooden	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+Wooden	B-PRODUCT
+Closet	I-PRODUCT
+
+Wooden	B-PRODUCT
+Credenza	I-PRODUCT
+
+Wooden	B-PRODUCT
+Cupboard	I-PRODUCT
+
+Wooden	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+Wooden	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+Wooden	B-PRODUCT
+Hutch	I-PRODUCT
+
+Wooden	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+Wooden	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+Wooden	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+Wooden	B-PRODUCT
+Pantry	I-PRODUCT
+
+Wooden	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+Wooden	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+Wooden	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Wooden	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+Wooden	B-PRODUCT
+dresser	I-PRODUCT
+
+Wooden	B-PRODUCT
+Chest	I-PRODUCT
+
+Wooden	B-PRODUCT
+Cellarette	I-PRODUCT
+
+Wooden	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+Wooden	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+Wooden	B-PRODUCT
+Drawer	I-PRODUCT
+
+Wooden	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+Wooden	B-PRODUCT
+Hatstand	I-PRODUCT
+
+Wooden	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+Wooden	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+Wooden	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Wooden	B-PRODUCT
+Nightstand	I-PRODUCT
+
+Wooden	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Wooden	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+Wooden	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+Wooden	B-PRODUCT
+Shelving	I-PRODUCT
+
+Wooden	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Wooden	B-PRODUCT
+buffet	I-PRODUCT
+
+Wooden	B-PRODUCT
+Tallboy	I-PRODUCT
+
+Wooden	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+Wooden	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+Wooden	B-PRODUCT
+armorie	I-PRODUCT
+
+Wooden	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+Wooden	B-PRODUCT
+Commode	I-PRODUCT
+
+Wooden	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+Wooden	B-PRODUCT
+Dinette	I-PRODUCT
+
+Wooden	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+Wooden	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+Wooden	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+Wooden	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+Wooden	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+Wooden	B-PRODUCT
+Credenza	I-PRODUCT
+
+Wooden	B-PRODUCT
+Divider	I-PRODUCT
+
+Wooden	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+Wooden	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+Wooden	B-PRODUCT
+Lamps	I-PRODUCT
+
+Wooden	B-PRODUCT
+Taboret	I-PRODUCT
+
+Wooden	B-PRODUCT
+Tatami	I-PRODUCT
+
+Wooden	B-PRODUCT
+Aquarium	I-PRODUCT
+
+Wooden	B-PRODUCT
+bar	I-PRODUCT
+
+Wooden	B-PRODUCT
+Children's	I-PRODUCT
+
+Wooden	B-PRODUCT
+Door	I-PRODUCT
+
+Wooden	B-PRODUCT
+Hutch	I-PRODUCT
+
+Wooden	B-PRODUCT
+Park	I-PRODUCT
+
+Wooden	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+Bamboo	B-PRODUCT
+chair	I-PRODUCT
+
+Bamboo	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+Bamboo	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+Bamboo	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+Bamboo	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+Bamboo	B-PRODUCT
+fauteuli	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Recliner	I-PRODUCT
+
+Bamboo	B-PRODUCT
+stool	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+Bamboo	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+Bamboo	B-PRODUCT
+tuffet	I-PRODUCT
+
+Bamboo	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+Bamboo	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+Bamboo	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Poufy	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Bench	I-PRODUCT
+
+Bamboo	B-PRODUCT
+couch	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Accubita	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Canape	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Davenport	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Klinai	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Divan	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Bed	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Waterbed	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Daybed	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Futon	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Hammock	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Headboard	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Convertible	I-PRODUCT
+
+Bamboo	B-PRODUCT
+cradle	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Gramophone	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Jukebox	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Radiogram	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Piano	I-PRODUCT
+
+Bamboo	B-PRODUCT
+TV	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Countertop	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Chabudai	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Desk	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Korsi	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Soban	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Washstand	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Workbench	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Bookcase	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Closet	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Credenza	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Cupboard	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Hutch	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+Bamboo	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Pantry	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+Bamboo	B-PRODUCT
+dresser	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Chest	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Cellarette	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Drawer	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Hatstand	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Nightstand	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Shelving	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Bamboo	B-PRODUCT
+buffet	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Tallboy	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+Bamboo	B-PRODUCT
+armorie	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Commode	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Dinette	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+Bamboo	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Credenza	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Divider	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Lamps	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Taboret	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Tatami	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Aquarium	I-PRODUCT
+
+Bamboo	B-PRODUCT
+bar	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Children's	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Door	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Hutch	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Park	I-PRODUCT
+
+Bamboo	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+Wicker	B-PRODUCT
+chair	I-PRODUCT
+
+Wicker	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+Wicker	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+Wicker	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+Wicker	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+Wicker	B-PRODUCT
+fauteuli	I-PRODUCT
+
+Wicker	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Wicker	B-PRODUCT
+Recliner	I-PRODUCT
+
+Wicker	B-PRODUCT
+stool	I-PRODUCT
+
+Wicker	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+Wicker	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+Wicker	B-PRODUCT
+tuffet	I-PRODUCT
+
+Wicker	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+Wicker	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+Wicker	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+Wicker	B-PRODUCT
+Poufy	I-PRODUCT
+
+Wicker	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+Wicker	B-PRODUCT
+Bench	I-PRODUCT
+
+Wicker	B-PRODUCT
+couch	I-PRODUCT
+
+Wicker	B-PRODUCT
+Accubita	I-PRODUCT
+
+Wicker	B-PRODUCT
+Canape	I-PRODUCT
+
+Wicker	B-PRODUCT
+Davenport	I-PRODUCT
+
+Wicker	B-PRODUCT
+Klinai	I-PRODUCT
+
+Wicker	B-PRODUCT
+Divan	I-PRODUCT
+
+Wicker	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+Wicker	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+Wicker	B-PRODUCT
+Bed	I-PRODUCT
+
+Wicker	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+Wicker	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+Wicker	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+Wicker	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+Wicker	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+Wicker	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+Wicker	B-PRODUCT
+Waterbed	I-PRODUCT
+
+Wicker	B-PRODUCT
+Daybed	I-PRODUCT
+
+Wicker	B-PRODUCT
+Futon	I-PRODUCT
+
+Wicker	B-PRODUCT
+Hammock	I-PRODUCT
+
+Wicker	B-PRODUCT
+Headboard	I-PRODUCT
+
+Wicker	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+Wicker	B-PRODUCT
+Convertible	I-PRODUCT
+
+Wicker	B-PRODUCT
+cradle	I-PRODUCT
+
+Wicker	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+Wicker	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+Wicker	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+Wicker	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+Wicker	B-PRODUCT
+Gramophone	I-PRODUCT
+
+Wicker	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+Wicker	B-PRODUCT
+Jukebox	I-PRODUCT
+
+Wicker	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+Wicker	B-PRODUCT
+Radiogram	I-PRODUCT
+
+Wicker	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+Wicker	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+Wicker	B-PRODUCT
+Piano	I-PRODUCT
+
+Wicker	B-PRODUCT
+TV	I-PRODUCT
+
+Wicker	B-PRODUCT
+Countertop	I-PRODUCT
+
+Wicker	B-PRODUCT
+Chabudai	I-PRODUCT
+
+Wicker	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+Desk	I-PRODUCT
+
+Wicker	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+Wicker	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+Wicker	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+Wicker	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+Wicker	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+Wicker	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+Wicker	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+Wicker	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Wicker	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+Wicker	B-PRODUCT
+Korsi	I-PRODUCT
+
+Wicker	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+Wicker	B-PRODUCT
+Soban	I-PRODUCT
+
+Wicker	B-PRODUCT
+Table	I-PRODUCT
+
+Wicker	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+Wicker	B-PRODUCT
+Washstand	I-PRODUCT
+
+Wicker	B-PRODUCT
+Workbench	I-PRODUCT
+
+Wicker	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+Wicker	B-PRODUCT
+Bookcase	I-PRODUCT
+
+Wicker	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+Wicker	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+Wicker	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+Wicker	B-PRODUCT
+Closet	I-PRODUCT
+
+Wicker	B-PRODUCT
+Credenza	I-PRODUCT
+
+Wicker	B-PRODUCT
+Cupboard	I-PRODUCT
+
+Wicker	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+Wicker	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+Wicker	B-PRODUCT
+Hutch	I-PRODUCT
+
+Wicker	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+Wicker	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+Wicker	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+Wicker	B-PRODUCT
+Pantry	I-PRODUCT
+
+Wicker	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+Wicker	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+Wicker	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Wicker	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+Wicker	B-PRODUCT
+dresser	I-PRODUCT
+
+Wicker	B-PRODUCT
+Chest	I-PRODUCT
+
+Wicker	B-PRODUCT
+Cellarette	I-PRODUCT
+
+Wicker	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+Wicker	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+Wicker	B-PRODUCT
+Drawer	I-PRODUCT
+
+Wicker	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+Wicker	B-PRODUCT
+Hatstand	I-PRODUCT
+
+Wicker	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+Wicker	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+Wicker	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Wicker	B-PRODUCT
+Nightstand	I-PRODUCT
+
+Wicker	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Wicker	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+Wicker	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+Wicker	B-PRODUCT
+Shelving	I-PRODUCT
+
+Wicker	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Wicker	B-PRODUCT
+buffet	I-PRODUCT
+
+Wicker	B-PRODUCT
+Tallboy	I-PRODUCT
+
+Wicker	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+Wicker	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+Wicker	B-PRODUCT
+armorie	I-PRODUCT
+
+Wicker	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+Wicker	B-PRODUCT
+Commode	I-PRODUCT
+
+Wicker	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+Wicker	B-PRODUCT
+Dinette	I-PRODUCT
+
+Wicker	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+Wicker	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+Wicker	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+Wicker	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+Wicker	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+Wicker	B-PRODUCT
+Credenza	I-PRODUCT
+
+Wicker	B-PRODUCT
+Divider	I-PRODUCT
+
+Wicker	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+Wicker	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+Wicker	B-PRODUCT
+Lamps	I-PRODUCT
+
+Wicker	B-PRODUCT
+Taboret	I-PRODUCT
+
+Wicker	B-PRODUCT
+Tatami	I-PRODUCT
+
+Wicker	B-PRODUCT
+Aquarium	I-PRODUCT
+
+Wicker	B-PRODUCT
+bar	I-PRODUCT
+
+Wicker	B-PRODUCT
+Children's	I-PRODUCT
+
+Wicker	B-PRODUCT
+Door	I-PRODUCT
+
+Wicker	B-PRODUCT
+Hutch	I-PRODUCT
+
+Wicker	B-PRODUCT
+Park	I-PRODUCT
+
+Wicker	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+rattan	B-PRODUCT
+chair	I-PRODUCT
+
+rattan	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+rattan	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+rattan	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+rattan	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+rattan	B-PRODUCT
+fauteuli	I-PRODUCT
+
+rattan	B-PRODUCT
+Ottoman	I-PRODUCT
+
+rattan	B-PRODUCT
+Recliner	I-PRODUCT
+
+rattan	B-PRODUCT
+stool	I-PRODUCT
+
+rattan	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+rattan	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+rattan	B-PRODUCT
+tuffet	I-PRODUCT
+
+rattan	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+rattan	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+rattan	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+rattan	B-PRODUCT
+Poufy	I-PRODUCT
+
+rattan	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+rattan	B-PRODUCT
+Bench	I-PRODUCT
+
+rattan	B-PRODUCT
+couch	I-PRODUCT
+
+rattan	B-PRODUCT
+Accubita	I-PRODUCT
+
+rattan	B-PRODUCT
+Canape	I-PRODUCT
+
+rattan	B-PRODUCT
+Davenport	I-PRODUCT
+
+rattan	B-PRODUCT
+Klinai	I-PRODUCT
+
+rattan	B-PRODUCT
+Divan	I-PRODUCT
+
+rattan	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+rattan	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+rattan	B-PRODUCT
+Bed	I-PRODUCT
+
+rattan	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+rattan	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+rattan	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+rattan	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+rattan	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+rattan	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+rattan	B-PRODUCT
+Waterbed	I-PRODUCT
+
+rattan	B-PRODUCT
+Daybed	I-PRODUCT
+
+rattan	B-PRODUCT
+Futon	I-PRODUCT
+
+rattan	B-PRODUCT
+Hammock	I-PRODUCT
+
+rattan	B-PRODUCT
+Headboard	I-PRODUCT
+
+rattan	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+rattan	B-PRODUCT
+Convertible	I-PRODUCT
+
+rattan	B-PRODUCT
+cradle	I-PRODUCT
+
+rattan	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+rattan	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+rattan	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+rattan	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+rattan	B-PRODUCT
+Gramophone	I-PRODUCT
+
+rattan	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+rattan	B-PRODUCT
+Jukebox	I-PRODUCT
+
+rattan	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+rattan	B-PRODUCT
+Radiogram	I-PRODUCT
+
+rattan	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+rattan	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+rattan	B-PRODUCT
+Piano	I-PRODUCT
+
+rattan	B-PRODUCT
+TV	I-PRODUCT
+
+rattan	B-PRODUCT
+Countertop	I-PRODUCT
+
+rattan	B-PRODUCT
+Chabudai	I-PRODUCT
+
+rattan	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+Desk	I-PRODUCT
+
+rattan	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+rattan	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+rattan	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+rattan	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+rattan	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+rattan	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+rattan	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+rattan	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+Lowboy	I-PRODUCT
+
+rattan	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+rattan	B-PRODUCT
+Korsi	I-PRODUCT
+
+rattan	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+rattan	B-PRODUCT
+Soban	I-PRODUCT
+
+rattan	B-PRODUCT
+Table	I-PRODUCT
+
+rattan	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+rattan	B-PRODUCT
+Washstand	I-PRODUCT
+
+rattan	B-PRODUCT
+Workbench	I-PRODUCT
+
+rattan	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+rattan	B-PRODUCT
+Bookcase	I-PRODUCT
+
+rattan	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+rattan	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+rattan	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+rattan	B-PRODUCT
+Closet	I-PRODUCT
+
+rattan	B-PRODUCT
+Credenza	I-PRODUCT
+
+rattan	B-PRODUCT
+Cupboard	I-PRODUCT
+
+rattan	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+rattan	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+rattan	B-PRODUCT
+Hutch	I-PRODUCT
+
+rattan	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+rattan	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+rattan	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+rattan	B-PRODUCT
+Pantry	I-PRODUCT
+
+rattan	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+rattan	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+rattan	B-PRODUCT
+Sideboard	I-PRODUCT
+
+rattan	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+rattan	B-PRODUCT
+dresser	I-PRODUCT
+
+rattan	B-PRODUCT
+Chest	I-PRODUCT
+
+rattan	B-PRODUCT
+Cellarette	I-PRODUCT
+
+rattan	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+rattan	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+rattan	B-PRODUCT
+Drawer	I-PRODUCT
+
+rattan	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+rattan	B-PRODUCT
+Hatstand	I-PRODUCT
+
+rattan	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+rattan	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+rattan	B-PRODUCT
+Lowboy	I-PRODUCT
+
+rattan	B-PRODUCT
+Nightstand	I-PRODUCT
+
+rattan	B-PRODUCT
+Ottoman	I-PRODUCT
+
+rattan	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+rattan	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+rattan	B-PRODUCT
+Shelving	I-PRODUCT
+
+rattan	B-PRODUCT
+Sideboard	I-PRODUCT
+
+rattan	B-PRODUCT
+buffet	I-PRODUCT
+
+rattan	B-PRODUCT
+Tallboy	I-PRODUCT
+
+rattan	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+rattan	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+rattan	B-PRODUCT
+armorie	I-PRODUCT
+
+rattan	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+rattan	B-PRODUCT
+Commode	I-PRODUCT
+
+rattan	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+rattan	B-PRODUCT
+Dinette	I-PRODUCT
+
+rattan	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+rattan	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+rattan	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+rattan	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+rattan	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+rattan	B-PRODUCT
+Credenza	I-PRODUCT
+
+rattan	B-PRODUCT
+Divider	I-PRODUCT
+
+rattan	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+rattan	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+rattan	B-PRODUCT
+Lamps	I-PRODUCT
+
+rattan	B-PRODUCT
+Taboret	I-PRODUCT
+
+rattan	B-PRODUCT
+Tatami	I-PRODUCT
+
+rattan	B-PRODUCT
+Aquarium	I-PRODUCT
+
+rattan	B-PRODUCT
+bar	I-PRODUCT
+
+rattan	B-PRODUCT
+Children's	I-PRODUCT
+
+rattan	B-PRODUCT
+Door	I-PRODUCT
+
+rattan	B-PRODUCT
+Hutch	I-PRODUCT
+
+rattan	B-PRODUCT
+Park	I-PRODUCT
+
+rattan	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+Metal	B-PRODUCT
+chair	I-PRODUCT
+
+Metal	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+Metal	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+Metal	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+Metal	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+Metal	B-PRODUCT
+fauteuli	I-PRODUCT
+
+Metal	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Metal	B-PRODUCT
+Recliner	I-PRODUCT
+
+Metal	B-PRODUCT
+stool	I-PRODUCT
+
+Metal	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+Metal	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+Metal	B-PRODUCT
+tuffet	I-PRODUCT
+
+Metal	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+Metal	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+Metal	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+Metal	B-PRODUCT
+Poufy	I-PRODUCT
+
+Metal	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+Metal	B-PRODUCT
+Bench	I-PRODUCT
+
+Metal	B-PRODUCT
+couch	I-PRODUCT
+
+Metal	B-PRODUCT
+Accubita	I-PRODUCT
+
+Metal	B-PRODUCT
+Canape	I-PRODUCT
+
+Metal	B-PRODUCT
+Davenport	I-PRODUCT
+
+Metal	B-PRODUCT
+Klinai	I-PRODUCT
+
+Metal	B-PRODUCT
+Divan	I-PRODUCT
+
+Metal	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+Metal	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+Metal	B-PRODUCT
+Bed	I-PRODUCT
+
+Metal	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+Metal	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+Metal	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+Metal	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+Metal	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+Metal	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+Metal	B-PRODUCT
+Waterbed	I-PRODUCT
+
+Metal	B-PRODUCT
+Daybed	I-PRODUCT
+
+Metal	B-PRODUCT
+Futon	I-PRODUCT
+
+Metal	B-PRODUCT
+Hammock	I-PRODUCT
+
+Metal	B-PRODUCT
+Headboard	I-PRODUCT
+
+Metal	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+Metal	B-PRODUCT
+Convertible	I-PRODUCT
+
+Metal	B-PRODUCT
+cradle	I-PRODUCT
+
+Metal	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+Metal	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+Metal	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+Metal	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+Metal	B-PRODUCT
+Gramophone	I-PRODUCT
+
+Metal	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+Metal	B-PRODUCT
+Jukebox	I-PRODUCT
+
+Metal	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+Metal	B-PRODUCT
+Radiogram	I-PRODUCT
+
+Metal	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+Metal	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+Metal	B-PRODUCT
+Piano	I-PRODUCT
+
+Metal	B-PRODUCT
+TV	I-PRODUCT
+
+Metal	B-PRODUCT
+Countertop	I-PRODUCT
+
+Metal	B-PRODUCT
+Chabudai	I-PRODUCT
+
+Metal	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+Desk	I-PRODUCT
+
+Metal	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+Metal	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+Metal	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+Metal	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+Metal	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+Metal	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+Metal	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+Metal	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Metal	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+Metal	B-PRODUCT
+Korsi	I-PRODUCT
+
+Metal	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+Metal	B-PRODUCT
+Soban	I-PRODUCT
+
+Metal	B-PRODUCT
+Table	I-PRODUCT
+
+Metal	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+Metal	B-PRODUCT
+Washstand	I-PRODUCT
+
+Metal	B-PRODUCT
+Workbench	I-PRODUCT
+
+Metal	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+Metal	B-PRODUCT
+Bookcase	I-PRODUCT
+
+Metal	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+Metal	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+Metal	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+Metal	B-PRODUCT
+Closet	I-PRODUCT
+
+Metal	B-PRODUCT
+Credenza	I-PRODUCT
+
+Metal	B-PRODUCT
+Cupboard	I-PRODUCT
+
+Metal	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+Metal	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+Metal	B-PRODUCT
+Hutch	I-PRODUCT
+
+Metal	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+Metal	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+Metal	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+Metal	B-PRODUCT
+Pantry	I-PRODUCT
+
+Metal	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+Metal	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+Metal	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Metal	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+Metal	B-PRODUCT
+dresser	I-PRODUCT
+
+Metal	B-PRODUCT
+Chest	I-PRODUCT
+
+Metal	B-PRODUCT
+Cellarette	I-PRODUCT
+
+Metal	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+Metal	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+Metal	B-PRODUCT
+Drawer	I-PRODUCT
+
+Metal	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+Metal	B-PRODUCT
+Hatstand	I-PRODUCT
+
+Metal	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+Metal	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+Metal	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Metal	B-PRODUCT
+Nightstand	I-PRODUCT
+
+Metal	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Metal	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+Metal	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+Metal	B-PRODUCT
+Shelving	I-PRODUCT
+
+Metal	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Metal	B-PRODUCT
+buffet	I-PRODUCT
+
+Metal	B-PRODUCT
+Tallboy	I-PRODUCT
+
+Metal	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+Metal	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+Metal	B-PRODUCT
+armorie	I-PRODUCT
+
+Metal	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+Metal	B-PRODUCT
+Commode	I-PRODUCT
+
+Metal	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+Metal	B-PRODUCT
+Dinette	I-PRODUCT
+
+Metal	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+Metal	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+Metal	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+Metal	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+Metal	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+Metal	B-PRODUCT
+Credenza	I-PRODUCT
+
+Metal	B-PRODUCT
+Divider	I-PRODUCT
+
+Metal	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+Metal	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+Metal	B-PRODUCT
+Lamps	I-PRODUCT
+
+Metal	B-PRODUCT
+Taboret	I-PRODUCT
+
+Metal	B-PRODUCT
+Tatami	I-PRODUCT
+
+Metal	B-PRODUCT
+Aquarium	I-PRODUCT
+
+Metal	B-PRODUCT
+bar	I-PRODUCT
+
+Metal	B-PRODUCT
+Children's	I-PRODUCT
+
+Metal	B-PRODUCT
+Door	I-PRODUCT
+
+Metal	B-PRODUCT
+Hutch	I-PRODUCT
+
+Metal	B-PRODUCT
+Park	I-PRODUCT
+
+Metal	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+Plastic	B-PRODUCT
+chair	I-PRODUCT
+
+Plastic	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+Plastic	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+Plastic	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+Plastic	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+Plastic	B-PRODUCT
+fauteuli	I-PRODUCT
+
+Plastic	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Plastic	B-PRODUCT
+Recliner	I-PRODUCT
+
+Plastic	B-PRODUCT
+stool	I-PRODUCT
+
+Plastic	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+Plastic	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+Plastic	B-PRODUCT
+tuffet	I-PRODUCT
+
+Plastic	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+Plastic	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+Plastic	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+Plastic	B-PRODUCT
+Poufy	I-PRODUCT
+
+Plastic	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+Plastic	B-PRODUCT
+Bench	I-PRODUCT
+
+Plastic	B-PRODUCT
+couch	I-PRODUCT
+
+Plastic	B-PRODUCT
+Accubita	I-PRODUCT
+
+Plastic	B-PRODUCT
+Canape	I-PRODUCT
+
+Plastic	B-PRODUCT
+Davenport	I-PRODUCT
+
+Plastic	B-PRODUCT
+Klinai	I-PRODUCT
+
+Plastic	B-PRODUCT
+Divan	I-PRODUCT
+
+Plastic	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+Plastic	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+Plastic	B-PRODUCT
+Bed	I-PRODUCT
+
+Plastic	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+Plastic	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+Plastic	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+Plastic	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+Plastic	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+Plastic	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+Plastic	B-PRODUCT
+Waterbed	I-PRODUCT
+
+Plastic	B-PRODUCT
+Daybed	I-PRODUCT
+
+Plastic	B-PRODUCT
+Futon	I-PRODUCT
+
+Plastic	B-PRODUCT
+Hammock	I-PRODUCT
+
+Plastic	B-PRODUCT
+Headboard	I-PRODUCT
+
+Plastic	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+Plastic	B-PRODUCT
+Convertible	I-PRODUCT
+
+Plastic	B-PRODUCT
+cradle	I-PRODUCT
+
+Plastic	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+Plastic	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+Plastic	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+Plastic	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+Plastic	B-PRODUCT
+Gramophone	I-PRODUCT
+
+Plastic	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+Plastic	B-PRODUCT
+Jukebox	I-PRODUCT
+
+Plastic	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+Plastic	B-PRODUCT
+Radiogram	I-PRODUCT
+
+Plastic	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+Plastic	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+Plastic	B-PRODUCT
+Piano	I-PRODUCT
+
+Plastic	B-PRODUCT
+TV	I-PRODUCT
+
+Plastic	B-PRODUCT
+Countertop	I-PRODUCT
+
+Plastic	B-PRODUCT
+Chabudai	I-PRODUCT
+
+Plastic	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+Desk	I-PRODUCT
+
+Plastic	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+Plastic	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+Plastic	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+Plastic	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+Plastic	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+Plastic	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+Plastic	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+Plastic	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Plastic	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+Plastic	B-PRODUCT
+Korsi	I-PRODUCT
+
+Plastic	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+Plastic	B-PRODUCT
+Soban	I-PRODUCT
+
+Plastic	B-PRODUCT
+Table	I-PRODUCT
+
+Plastic	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+Plastic	B-PRODUCT
+Washstand	I-PRODUCT
+
+Plastic	B-PRODUCT
+Workbench	I-PRODUCT
+
+Plastic	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+Plastic	B-PRODUCT
+Bookcase	I-PRODUCT
+
+Plastic	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+Plastic	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+Plastic	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+Plastic	B-PRODUCT
+Closet	I-PRODUCT
+
+Plastic	B-PRODUCT
+Credenza	I-PRODUCT
+
+Plastic	B-PRODUCT
+Cupboard	I-PRODUCT
+
+Plastic	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+Plastic	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+Plastic	B-PRODUCT
+Hutch	I-PRODUCT
+
+Plastic	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+Plastic	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+Plastic	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+Plastic	B-PRODUCT
+Pantry	I-PRODUCT
+
+Plastic	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+Plastic	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+Plastic	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Plastic	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+Plastic	B-PRODUCT
+dresser	I-PRODUCT
+
+Plastic	B-PRODUCT
+Chest	I-PRODUCT
+
+Plastic	B-PRODUCT
+Cellarette	I-PRODUCT
+
+Plastic	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+Plastic	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+Plastic	B-PRODUCT
+Drawer	I-PRODUCT
+
+Plastic	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+Plastic	B-PRODUCT
+Hatstand	I-PRODUCT
+
+Plastic	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+Plastic	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+Plastic	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Plastic	B-PRODUCT
+Nightstand	I-PRODUCT
+
+Plastic	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Plastic	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+Plastic	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+Plastic	B-PRODUCT
+Shelving	I-PRODUCT
+
+Plastic	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Plastic	B-PRODUCT
+buffet	I-PRODUCT
+
+Plastic	B-PRODUCT
+Tallboy	I-PRODUCT
+
+Plastic	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+Plastic	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+Plastic	B-PRODUCT
+armorie	I-PRODUCT
+
+Plastic	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+Plastic	B-PRODUCT
+Commode	I-PRODUCT
+
+Plastic	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+Plastic	B-PRODUCT
+Dinette	I-PRODUCT
+
+Plastic	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+Plastic	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+Plastic	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+Plastic	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+Plastic	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+Plastic	B-PRODUCT
+Credenza	I-PRODUCT
+
+Plastic	B-PRODUCT
+Divider	I-PRODUCT
+
+Plastic	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+Plastic	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+Plastic	B-PRODUCT
+Lamps	I-PRODUCT
+
+Plastic	B-PRODUCT
+Taboret	I-PRODUCT
+
+Plastic	B-PRODUCT
+Tatami	I-PRODUCT
+
+Plastic	B-PRODUCT
+Aquarium	I-PRODUCT
+
+Plastic	B-PRODUCT
+bar	I-PRODUCT
+
+Plastic	B-PRODUCT
+Children's	I-PRODUCT
+
+Plastic	B-PRODUCT
+Door	I-PRODUCT
+
+Plastic	B-PRODUCT
+Hutch	I-PRODUCT
+
+Plastic	B-PRODUCT
+Park	I-PRODUCT
+
+Plastic	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+Glass	B-PRODUCT
+chair	I-PRODUCT
+
+Glass	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+Glass	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+Glass	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+Glass	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+Glass	B-PRODUCT
+fauteuli	I-PRODUCT
+
+Glass	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Glass	B-PRODUCT
+Recliner	I-PRODUCT
+
+Glass	B-PRODUCT
+stool	I-PRODUCT
+
+Glass	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+Glass	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+Glass	B-PRODUCT
+tuffet	I-PRODUCT
+
+Glass	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+Glass	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+Glass	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+Glass	B-PRODUCT
+Poufy	I-PRODUCT
+
+Glass	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+Glass	B-PRODUCT
+Bench	I-PRODUCT
+
+Glass	B-PRODUCT
+couch	I-PRODUCT
+
+Glass	B-PRODUCT
+Accubita	I-PRODUCT
+
+Glass	B-PRODUCT
+Canape	I-PRODUCT
+
+Glass	B-PRODUCT
+Davenport	I-PRODUCT
+
+Glass	B-PRODUCT
+Klinai	I-PRODUCT
+
+Glass	B-PRODUCT
+Divan	I-PRODUCT
+
+Glass	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+Glass	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+Glass	B-PRODUCT
+Bed	I-PRODUCT
+
+Glass	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+Glass	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+Glass	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+Glass	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+Glass	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+Glass	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+Glass	B-PRODUCT
+Waterbed	I-PRODUCT
+
+Glass	B-PRODUCT
+Daybed	I-PRODUCT
+
+Glass	B-PRODUCT
+Futon	I-PRODUCT
+
+Glass	B-PRODUCT
+Hammock	I-PRODUCT
+
+Glass	B-PRODUCT
+Headboard	I-PRODUCT
+
+Glass	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+Glass	B-PRODUCT
+Convertible	I-PRODUCT
+
+Glass	B-PRODUCT
+cradle	I-PRODUCT
+
+Glass	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+Glass	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+Glass	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+Glass	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+Glass	B-PRODUCT
+Gramophone	I-PRODUCT
+
+Glass	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+Glass	B-PRODUCT
+Jukebox	I-PRODUCT
+
+Glass	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+Glass	B-PRODUCT
+Radiogram	I-PRODUCT
+
+Glass	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+Glass	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+Glass	B-PRODUCT
+Piano	I-PRODUCT
+
+Glass	B-PRODUCT
+TV	I-PRODUCT
+
+Glass	B-PRODUCT
+Countertop	I-PRODUCT
+
+Glass	B-PRODUCT
+Chabudai	I-PRODUCT
+
+Glass	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+Desk	I-PRODUCT
+
+Glass	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+Glass	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+Glass	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+Glass	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+Glass	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+Glass	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+Glass	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+Glass	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Glass	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+Glass	B-PRODUCT
+Korsi	I-PRODUCT
+
+Glass	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+Glass	B-PRODUCT
+Soban	I-PRODUCT
+
+Glass	B-PRODUCT
+Table	I-PRODUCT
+
+Glass	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+Glass	B-PRODUCT
+Washstand	I-PRODUCT
+
+Glass	B-PRODUCT
+Workbench	I-PRODUCT
+
+Glass	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+Glass	B-PRODUCT
+Bookcase	I-PRODUCT
+
+Glass	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+Glass	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+Glass	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+Glass	B-PRODUCT
+Closet	I-PRODUCT
+
+Glass	B-PRODUCT
+Credenza	I-PRODUCT
+
+Glass	B-PRODUCT
+Cupboard	I-PRODUCT
+
+Glass	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+Glass	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+Glass	B-PRODUCT
+Hutch	I-PRODUCT
+
+Glass	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+Glass	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+Glass	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+Glass	B-PRODUCT
+Pantry	I-PRODUCT
+
+Glass	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+Glass	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+Glass	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Glass	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+Glass	B-PRODUCT
+dresser	I-PRODUCT
+
+Glass	B-PRODUCT
+Chest	I-PRODUCT
+
+Glass	B-PRODUCT
+Cellarette	I-PRODUCT
+
+Glass	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+Glass	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+Glass	B-PRODUCT
+Drawer	I-PRODUCT
+
+Glass	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+Glass	B-PRODUCT
+Hatstand	I-PRODUCT
+
+Glass	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+Glass	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+Glass	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Glass	B-PRODUCT
+Nightstand	I-PRODUCT
+
+Glass	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Glass	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+Glass	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+Glass	B-PRODUCT
+Shelving	I-PRODUCT
+
+Glass	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Glass	B-PRODUCT
+buffet	I-PRODUCT
+
+Glass	B-PRODUCT
+Tallboy	I-PRODUCT
+
+Glass	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+Glass	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+Glass	B-PRODUCT
+armorie	I-PRODUCT
+
+Glass	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+Glass	B-PRODUCT
+Commode	I-PRODUCT
+
+Glass	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+Glass	B-PRODUCT
+Dinette	I-PRODUCT
+
+Glass	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+Glass	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+Glass	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+Glass	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+Glass	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+Glass	B-PRODUCT
+Credenza	I-PRODUCT
+
+Glass	B-PRODUCT
+Divider	I-PRODUCT
+
+Glass	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+Glass	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+Glass	B-PRODUCT
+Lamps	I-PRODUCT
+
+Glass	B-PRODUCT
+Taboret	I-PRODUCT
+
+Glass	B-PRODUCT
+Tatami	I-PRODUCT
+
+Glass	B-PRODUCT
+Aquarium	I-PRODUCT
+
+Glass	B-PRODUCT
+bar	I-PRODUCT
+
+Glass	B-PRODUCT
+Children's	I-PRODUCT
+
+Glass	B-PRODUCT
+Door	I-PRODUCT
+
+Glass	B-PRODUCT
+Hutch	I-PRODUCT
+
+Glass	B-PRODUCT
+Park	I-PRODUCT
+
+Glass	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+Concrete	B-PRODUCT
+chair	I-PRODUCT
+
+Concrete	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+Concrete	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+Concrete	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+Concrete	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+Concrete	B-PRODUCT
+fauteuli	I-PRODUCT
+
+Concrete	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Concrete	B-PRODUCT
+Recliner	I-PRODUCT
+
+Concrete	B-PRODUCT
+stool	I-PRODUCT
+
+Concrete	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+Concrete	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+Concrete	B-PRODUCT
+tuffet	I-PRODUCT
+
+Concrete	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+Concrete	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+Concrete	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+Concrete	B-PRODUCT
+Poufy	I-PRODUCT
+
+Concrete	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+Concrete	B-PRODUCT
+Bench	I-PRODUCT
+
+Concrete	B-PRODUCT
+couch	I-PRODUCT
+
+Concrete	B-PRODUCT
+Accubita	I-PRODUCT
+
+Concrete	B-PRODUCT
+Canape	I-PRODUCT
+
+Concrete	B-PRODUCT
+Davenport	I-PRODUCT
+
+Concrete	B-PRODUCT
+Klinai	I-PRODUCT
+
+Concrete	B-PRODUCT
+Divan	I-PRODUCT
+
+Concrete	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+Concrete	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+Concrete	B-PRODUCT
+Bed	I-PRODUCT
+
+Concrete	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+Concrete	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+Concrete	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+Concrete	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+Concrete	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+Concrete	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+Concrete	B-PRODUCT
+Waterbed	I-PRODUCT
+
+Concrete	B-PRODUCT
+Daybed	I-PRODUCT
+
+Concrete	B-PRODUCT
+Futon	I-PRODUCT
+
+Concrete	B-PRODUCT
+Hammock	I-PRODUCT
+
+Concrete	B-PRODUCT
+Headboard	I-PRODUCT
+
+Concrete	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+Concrete	B-PRODUCT
+Convertible	I-PRODUCT
+
+Concrete	B-PRODUCT
+cradle	I-PRODUCT
+
+Concrete	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+Concrete	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+Concrete	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+Concrete	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+Concrete	B-PRODUCT
+Gramophone	I-PRODUCT
+
+Concrete	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+Concrete	B-PRODUCT
+Jukebox	I-PRODUCT
+
+Concrete	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+Concrete	B-PRODUCT
+Radiogram	I-PRODUCT
+
+Concrete	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+Concrete	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+Concrete	B-PRODUCT
+Piano	I-PRODUCT
+
+Concrete	B-PRODUCT
+TV	I-PRODUCT
+
+Concrete	B-PRODUCT
+Countertop	I-PRODUCT
+
+Concrete	B-PRODUCT
+Chabudai	I-PRODUCT
+
+Concrete	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+Desk	I-PRODUCT
+
+Concrete	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+Concrete	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+Concrete	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+Concrete	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+Concrete	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+Concrete	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+Concrete	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+Concrete	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Concrete	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+Concrete	B-PRODUCT
+Korsi	I-PRODUCT
+
+Concrete	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+Concrete	B-PRODUCT
+Soban	I-PRODUCT
+
+Concrete	B-PRODUCT
+Table	I-PRODUCT
+
+Concrete	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+Concrete	B-PRODUCT
+Washstand	I-PRODUCT
+
+Concrete	B-PRODUCT
+Workbench	I-PRODUCT
+
+Concrete	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+Concrete	B-PRODUCT
+Bookcase	I-PRODUCT
+
+Concrete	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+Concrete	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+Concrete	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+Concrete	B-PRODUCT
+Closet	I-PRODUCT
+
+Concrete	B-PRODUCT
+Credenza	I-PRODUCT
+
+Concrete	B-PRODUCT
+Cupboard	I-PRODUCT
+
+Concrete	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+Concrete	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+Concrete	B-PRODUCT
+Hutch	I-PRODUCT
+
+Concrete	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+Concrete	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+Concrete	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+Concrete	B-PRODUCT
+Pantry	I-PRODUCT
+
+Concrete	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+Concrete	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+Concrete	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Concrete	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+Concrete	B-PRODUCT
+dresser	I-PRODUCT
+
+Concrete	B-PRODUCT
+Chest	I-PRODUCT
+
+Concrete	B-PRODUCT
+Cellarette	I-PRODUCT
+
+Concrete	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+Concrete	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+Concrete	B-PRODUCT
+Drawer	I-PRODUCT
+
+Concrete	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+Concrete	B-PRODUCT
+Hatstand	I-PRODUCT
+
+Concrete	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+Concrete	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+Concrete	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Concrete	B-PRODUCT
+Nightstand	I-PRODUCT
+
+Concrete	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Concrete	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+Concrete	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+Concrete	B-PRODUCT
+Shelving	I-PRODUCT
+
+Concrete	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Concrete	B-PRODUCT
+buffet	I-PRODUCT
+
+Concrete	B-PRODUCT
+Tallboy	I-PRODUCT
+
+Concrete	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+Concrete	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+Concrete	B-PRODUCT
+armorie	I-PRODUCT
+
+Concrete	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+Concrete	B-PRODUCT
+Commode	I-PRODUCT
+
+Concrete	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+Concrete	B-PRODUCT
+Dinette	I-PRODUCT
+
+Concrete	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+Concrete	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+Concrete	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+Concrete	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+Concrete	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+Concrete	B-PRODUCT
+Credenza	I-PRODUCT
+
+Concrete	B-PRODUCT
+Divider	I-PRODUCT
+
+Concrete	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+Concrete	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+Concrete	B-PRODUCT
+Lamps	I-PRODUCT
+
+Concrete	B-PRODUCT
+Taboret	I-PRODUCT
+
+Concrete	B-PRODUCT
+Tatami	I-PRODUCT
+
+Concrete	B-PRODUCT
+Aquarium	I-PRODUCT
+
+Concrete	B-PRODUCT
+bar	I-PRODUCT
+
+Concrete	B-PRODUCT
+Children's	I-PRODUCT
+
+Concrete	B-PRODUCT
+Door	I-PRODUCT
+
+Concrete	B-PRODUCT
+Hutch	I-PRODUCT
+
+Concrete	B-PRODUCT
+Park	I-PRODUCT
+
+Concrete	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+Bombay	B-PRODUCT
+chair	I-PRODUCT
+
+Bombay	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+Bombay	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+Bombay	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+Bombay	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+Bombay	B-PRODUCT
+fauteuli	I-PRODUCT
+
+Bombay	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Bombay	B-PRODUCT
+Recliner	I-PRODUCT
+
+Bombay	B-PRODUCT
+stool	I-PRODUCT
+
+Bombay	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+Bombay	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+Bombay	B-PRODUCT
+tuffet	I-PRODUCT
+
+Bombay	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+Bombay	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+Bombay	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+Bombay	B-PRODUCT
+Poufy	I-PRODUCT
+
+Bombay	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+Bombay	B-PRODUCT
+Bench	I-PRODUCT
+
+Bombay	B-PRODUCT
+couch	I-PRODUCT
+
+Bombay	B-PRODUCT
+Accubita	I-PRODUCT
+
+Bombay	B-PRODUCT
+Canape	I-PRODUCT
+
+Bombay	B-PRODUCT
+Davenport	I-PRODUCT
+
+Bombay	B-PRODUCT
+Klinai	I-PRODUCT
+
+Bombay	B-PRODUCT
+Divan	I-PRODUCT
+
+Bombay	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+Bombay	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+Bombay	B-PRODUCT
+Bed	I-PRODUCT
+
+Bombay	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+Bombay	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+Bombay	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+Bombay	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+Bombay	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+Bombay	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+Bombay	B-PRODUCT
+Waterbed	I-PRODUCT
+
+Bombay	B-PRODUCT
+Daybed	I-PRODUCT
+
+Bombay	B-PRODUCT
+Futon	I-PRODUCT
+
+Bombay	B-PRODUCT
+Hammock	I-PRODUCT
+
+Bombay	B-PRODUCT
+Headboard	I-PRODUCT
+
+Bombay	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+Bombay	B-PRODUCT
+Convertible	I-PRODUCT
+
+Bombay	B-PRODUCT
+cradle	I-PRODUCT
+
+Bombay	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+Bombay	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+Bombay	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+Bombay	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+Bombay	B-PRODUCT
+Gramophone	I-PRODUCT
+
+Bombay	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+Bombay	B-PRODUCT
+Jukebox	I-PRODUCT
+
+Bombay	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+Bombay	B-PRODUCT
+Radiogram	I-PRODUCT
+
+Bombay	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+Bombay	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+Bombay	B-PRODUCT
+Piano	I-PRODUCT
+
+Bombay	B-PRODUCT
+TV	I-PRODUCT
+
+Bombay	B-PRODUCT
+Countertop	I-PRODUCT
+
+Bombay	B-PRODUCT
+Chabudai	I-PRODUCT
+
+Bombay	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+Desk	I-PRODUCT
+
+Bombay	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+Bombay	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+Bombay	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+Bombay	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+Bombay	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+Bombay	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+Bombay	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+Bombay	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Bombay	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+Bombay	B-PRODUCT
+Korsi	I-PRODUCT
+
+Bombay	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+Bombay	B-PRODUCT
+Soban	I-PRODUCT
+
+Bombay	B-PRODUCT
+Table	I-PRODUCT
+
+Bombay	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+Bombay	B-PRODUCT
+Washstand	I-PRODUCT
+
+Bombay	B-PRODUCT
+Workbench	I-PRODUCT
+
+Bombay	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+Bombay	B-PRODUCT
+Bookcase	I-PRODUCT
+
+Bombay	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+Bombay	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+Bombay	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+Bombay	B-PRODUCT
+Closet	I-PRODUCT
+
+Bombay	B-PRODUCT
+Credenza	I-PRODUCT
+
+Bombay	B-PRODUCT
+Cupboard	I-PRODUCT
+
+Bombay	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+Bombay	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+Bombay	B-PRODUCT
+Hutch	I-PRODUCT
+
+Bombay	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+Bombay	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+Bombay	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+Bombay	B-PRODUCT
+Pantry	I-PRODUCT
+
+Bombay	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+Bombay	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+Bombay	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Bombay	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+Bombay	B-PRODUCT
+dresser	I-PRODUCT
+
+Bombay	B-PRODUCT
+Chest	I-PRODUCT
+
+Bombay	B-PRODUCT
+Cellarette	I-PRODUCT
+
+Bombay	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+Bombay	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+Bombay	B-PRODUCT
+Drawer	I-PRODUCT
+
+Bombay	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+Bombay	B-PRODUCT
+Hatstand	I-PRODUCT
+
+Bombay	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+Bombay	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+Bombay	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Bombay	B-PRODUCT
+Nightstand	I-PRODUCT
+
+Bombay	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Bombay	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+Bombay	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+Bombay	B-PRODUCT
+Shelving	I-PRODUCT
+
+Bombay	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Bombay	B-PRODUCT
+buffet	I-PRODUCT
+
+Bombay	B-PRODUCT
+Tallboy	I-PRODUCT
+
+Bombay	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+Bombay	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+Bombay	B-PRODUCT
+armorie	I-PRODUCT
+
+Bombay	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+Bombay	B-PRODUCT
+Commode	I-PRODUCT
+
+Bombay	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+Bombay	B-PRODUCT
+Dinette	I-PRODUCT
+
+Bombay	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+Bombay	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+Bombay	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+Bombay	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+Bombay	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+Bombay	B-PRODUCT
+Credenza	I-PRODUCT
+
+Bombay	B-PRODUCT
+Divider	I-PRODUCT
+
+Bombay	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+Bombay	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+Bombay	B-PRODUCT
+Lamps	I-PRODUCT
+
+Bombay	B-PRODUCT
+Taboret	I-PRODUCT
+
+Bombay	B-PRODUCT
+Tatami	I-PRODUCT
+
+Bombay	B-PRODUCT
+Aquarium	I-PRODUCT
+
+Bombay	B-PRODUCT
+bar	I-PRODUCT
+
+Bombay	B-PRODUCT
+Children's	I-PRODUCT
+
+Bombay	B-PRODUCT
+Door	I-PRODUCT
+
+Bombay	B-PRODUCT
+Hutch	I-PRODUCT
+
+Bombay	B-PRODUCT
+Park	I-PRODUCT
+
+Bombay	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+blackwood	B-PRODUCT
+chair	I-PRODUCT
+
+blackwood	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+blackwood	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+blackwood	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+blackwood	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+blackwood	B-PRODUCT
+fauteuli	I-PRODUCT
+
+blackwood	B-PRODUCT
+Ottoman	I-PRODUCT
+
+blackwood	B-PRODUCT
+Recliner	I-PRODUCT
+
+blackwood	B-PRODUCT
+stool	I-PRODUCT
+
+blackwood	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+blackwood	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+blackwood	B-PRODUCT
+tuffet	I-PRODUCT
+
+blackwood	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+blackwood	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+blackwood	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+blackwood	B-PRODUCT
+Poufy	I-PRODUCT
+
+blackwood	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+blackwood	B-PRODUCT
+Bench	I-PRODUCT
+
+blackwood	B-PRODUCT
+couch	I-PRODUCT
+
+blackwood	B-PRODUCT
+Accubita	I-PRODUCT
+
+blackwood	B-PRODUCT
+Canape	I-PRODUCT
+
+blackwood	B-PRODUCT
+Davenport	I-PRODUCT
+
+blackwood	B-PRODUCT
+Klinai	I-PRODUCT
+
+blackwood	B-PRODUCT
+Divan	I-PRODUCT
+
+blackwood	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+blackwood	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+blackwood	B-PRODUCT
+Bed	I-PRODUCT
+
+blackwood	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+blackwood	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+blackwood	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+blackwood	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+blackwood	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+blackwood	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+blackwood	B-PRODUCT
+Waterbed	I-PRODUCT
+
+blackwood	B-PRODUCT
+Daybed	I-PRODUCT
+
+blackwood	B-PRODUCT
+Futon	I-PRODUCT
+
+blackwood	B-PRODUCT
+Hammock	I-PRODUCT
+
+blackwood	B-PRODUCT
+Headboard	I-PRODUCT
+
+blackwood	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+blackwood	B-PRODUCT
+Convertible	I-PRODUCT
+
+blackwood	B-PRODUCT
+cradle	I-PRODUCT
+
+blackwood	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+blackwood	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+blackwood	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+blackwood	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+blackwood	B-PRODUCT
+Gramophone	I-PRODUCT
+
+blackwood	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+blackwood	B-PRODUCT
+Jukebox	I-PRODUCT
+
+blackwood	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+blackwood	B-PRODUCT
+Radiogram	I-PRODUCT
+
+blackwood	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+blackwood	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+blackwood	B-PRODUCT
+Piano	I-PRODUCT
+
+blackwood	B-PRODUCT
+TV	I-PRODUCT
+
+blackwood	B-PRODUCT
+Countertop	I-PRODUCT
+
+blackwood	B-PRODUCT
+Chabudai	I-PRODUCT
+
+blackwood	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+Desk	I-PRODUCT
+
+blackwood	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+blackwood	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+blackwood	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+blackwood	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+blackwood	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+blackwood	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+blackwood	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+blackwood	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+Lowboy	I-PRODUCT
+
+blackwood	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+blackwood	B-PRODUCT
+Korsi	I-PRODUCT
+
+blackwood	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+blackwood	B-PRODUCT
+Soban	I-PRODUCT
+
+blackwood	B-PRODUCT
+Table	I-PRODUCT
+
+blackwood	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+blackwood	B-PRODUCT
+Washstand	I-PRODUCT
+
+blackwood	B-PRODUCT
+Workbench	I-PRODUCT
+
+blackwood	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+blackwood	B-PRODUCT
+Bookcase	I-PRODUCT
+
+blackwood	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+blackwood	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+blackwood	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+blackwood	B-PRODUCT
+Closet	I-PRODUCT
+
+blackwood	B-PRODUCT
+Credenza	I-PRODUCT
+
+blackwood	B-PRODUCT
+Cupboard	I-PRODUCT
+
+blackwood	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+blackwood	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+blackwood	B-PRODUCT
+Hutch	I-PRODUCT
+
+blackwood	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+blackwood	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+blackwood	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+blackwood	B-PRODUCT
+Pantry	I-PRODUCT
+
+blackwood	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+blackwood	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+blackwood	B-PRODUCT
+Sideboard	I-PRODUCT
+
+blackwood	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+blackwood	B-PRODUCT
+dresser	I-PRODUCT
+
+blackwood	B-PRODUCT
+Chest	I-PRODUCT
+
+blackwood	B-PRODUCT
+Cellarette	I-PRODUCT
+
+blackwood	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+blackwood	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+blackwood	B-PRODUCT
+Drawer	I-PRODUCT
+
+blackwood	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+blackwood	B-PRODUCT
+Hatstand	I-PRODUCT
+
+blackwood	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+blackwood	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+blackwood	B-PRODUCT
+Lowboy	I-PRODUCT
+
+blackwood	B-PRODUCT
+Nightstand	I-PRODUCT
+
+blackwood	B-PRODUCT
+Ottoman	I-PRODUCT
+
+blackwood	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+blackwood	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+blackwood	B-PRODUCT
+Shelving	I-PRODUCT
+
+blackwood	B-PRODUCT
+Sideboard	I-PRODUCT
+
+blackwood	B-PRODUCT
+buffet	I-PRODUCT
+
+blackwood	B-PRODUCT
+Tallboy	I-PRODUCT
+
+blackwood	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+blackwood	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+blackwood	B-PRODUCT
+armorie	I-PRODUCT
+
+blackwood	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+blackwood	B-PRODUCT
+Commode	I-PRODUCT
+
+blackwood	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+blackwood	B-PRODUCT
+Dinette	I-PRODUCT
+
+blackwood	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+blackwood	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+blackwood	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+blackwood	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+blackwood	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+blackwood	B-PRODUCT
+Credenza	I-PRODUCT
+
+blackwood	B-PRODUCT
+Divider	I-PRODUCT
+
+blackwood	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+blackwood	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+blackwood	B-PRODUCT
+Lamps	I-PRODUCT
+
+blackwood	B-PRODUCT
+Taboret	I-PRODUCT
+
+blackwood	B-PRODUCT
+Tatami	I-PRODUCT
+
+blackwood	B-PRODUCT
+Aquarium	I-PRODUCT
+
+blackwood	B-PRODUCT
+bar	I-PRODUCT
+
+blackwood	B-PRODUCT
+Children's	I-PRODUCT
+
+blackwood	B-PRODUCT
+Door	I-PRODUCT
+
+blackwood	B-PRODUCT
+Hutch	I-PRODUCT
+
+blackwood	B-PRODUCT
+Park	I-PRODUCT
+
+blackwood	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+acrylic	B-PRODUCT
+chair	I-PRODUCT
+
+acrylic	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+acrylic	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+acrylic	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+acrylic	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+acrylic	B-PRODUCT
+fauteuli	I-PRODUCT
+
+acrylic	B-PRODUCT
+Ottoman	I-PRODUCT
+
+acrylic	B-PRODUCT
+Recliner	I-PRODUCT
+
+acrylic	B-PRODUCT
+stool	I-PRODUCT
+
+acrylic	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+acrylic	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+acrylic	B-PRODUCT
+tuffet	I-PRODUCT
+
+acrylic	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+acrylic	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+acrylic	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+acrylic	B-PRODUCT
+Poufy	I-PRODUCT
+
+acrylic	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+acrylic	B-PRODUCT
+Bench	I-PRODUCT
+
+acrylic	B-PRODUCT
+couch	I-PRODUCT
+
+acrylic	B-PRODUCT
+Accubita	I-PRODUCT
+
+acrylic	B-PRODUCT
+Canape	I-PRODUCT
+
+acrylic	B-PRODUCT
+Davenport	I-PRODUCT
+
+acrylic	B-PRODUCT
+Klinai	I-PRODUCT
+
+acrylic	B-PRODUCT
+Divan	I-PRODUCT
+
+acrylic	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+acrylic	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+acrylic	B-PRODUCT
+Bed	I-PRODUCT
+
+acrylic	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+acrylic	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+acrylic	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+acrylic	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+acrylic	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+acrylic	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+acrylic	B-PRODUCT
+Waterbed	I-PRODUCT
+
+acrylic	B-PRODUCT
+Daybed	I-PRODUCT
+
+acrylic	B-PRODUCT
+Futon	I-PRODUCT
+
+acrylic	B-PRODUCT
+Hammock	I-PRODUCT
+
+acrylic	B-PRODUCT
+Headboard	I-PRODUCT
+
+acrylic	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+acrylic	B-PRODUCT
+Convertible	I-PRODUCT
+
+acrylic	B-PRODUCT
+cradle	I-PRODUCT
+
+acrylic	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+acrylic	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+acrylic	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+acrylic	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+acrylic	B-PRODUCT
+Gramophone	I-PRODUCT
+
+acrylic	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+acrylic	B-PRODUCT
+Jukebox	I-PRODUCT
+
+acrylic	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+acrylic	B-PRODUCT
+Radiogram	I-PRODUCT
+
+acrylic	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+acrylic	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+acrylic	B-PRODUCT
+Piano	I-PRODUCT
+
+acrylic	B-PRODUCT
+TV	I-PRODUCT
+
+acrylic	B-PRODUCT
+Countertop	I-PRODUCT
+
+acrylic	B-PRODUCT
+Chabudai	I-PRODUCT
+
+acrylic	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+Desk	I-PRODUCT
+
+acrylic	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+acrylic	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+acrylic	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+acrylic	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+acrylic	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+acrylic	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+acrylic	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+acrylic	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+Lowboy	I-PRODUCT
+
+acrylic	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+acrylic	B-PRODUCT
+Korsi	I-PRODUCT
+
+acrylic	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+acrylic	B-PRODUCT
+Soban	I-PRODUCT
+
+acrylic	B-PRODUCT
+Table	I-PRODUCT
+
+acrylic	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+acrylic	B-PRODUCT
+Washstand	I-PRODUCT
+
+acrylic	B-PRODUCT
+Workbench	I-PRODUCT
+
+acrylic	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+acrylic	B-PRODUCT
+Bookcase	I-PRODUCT
+
+acrylic	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+acrylic	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+acrylic	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+acrylic	B-PRODUCT
+Closet	I-PRODUCT
+
+acrylic	B-PRODUCT
+Credenza	I-PRODUCT
+
+acrylic	B-PRODUCT
+Cupboard	I-PRODUCT
+
+acrylic	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+acrylic	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+acrylic	B-PRODUCT
+Hutch	I-PRODUCT
+
+acrylic	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+acrylic	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+acrylic	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+acrylic	B-PRODUCT
+Pantry	I-PRODUCT
+
+acrylic	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+acrylic	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+acrylic	B-PRODUCT
+Sideboard	I-PRODUCT
+
+acrylic	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+acrylic	B-PRODUCT
+dresser	I-PRODUCT
+
+acrylic	B-PRODUCT
+Chest	I-PRODUCT
+
+acrylic	B-PRODUCT
+Cellarette	I-PRODUCT
+
+acrylic	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+acrylic	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+acrylic	B-PRODUCT
+Drawer	I-PRODUCT
+
+acrylic	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+acrylic	B-PRODUCT
+Hatstand	I-PRODUCT
+
+acrylic	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+acrylic	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+acrylic	B-PRODUCT
+Lowboy	I-PRODUCT
+
+acrylic	B-PRODUCT
+Nightstand	I-PRODUCT
+
+acrylic	B-PRODUCT
+Ottoman	I-PRODUCT
+
+acrylic	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+acrylic	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+acrylic	B-PRODUCT
+Shelving	I-PRODUCT
+
+acrylic	B-PRODUCT
+Sideboard	I-PRODUCT
+
+acrylic	B-PRODUCT
+buffet	I-PRODUCT
+
+acrylic	B-PRODUCT
+Tallboy	I-PRODUCT
+
+acrylic	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+acrylic	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+acrylic	B-PRODUCT
+armorie	I-PRODUCT
+
+acrylic	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+acrylic	B-PRODUCT
+Commode	I-PRODUCT
+
+acrylic	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+acrylic	B-PRODUCT
+Dinette	I-PRODUCT
+
+acrylic	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+acrylic	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+acrylic	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+acrylic	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+acrylic	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+acrylic	B-PRODUCT
+Credenza	I-PRODUCT
+
+acrylic	B-PRODUCT
+Divider	I-PRODUCT
+
+acrylic	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+acrylic	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+acrylic	B-PRODUCT
+Lamps	I-PRODUCT
+
+acrylic	B-PRODUCT
+Taboret	I-PRODUCT
+
+acrylic	B-PRODUCT
+Tatami	I-PRODUCT
+
+acrylic	B-PRODUCT
+Aquarium	I-PRODUCT
+
+acrylic	B-PRODUCT
+bar	I-PRODUCT
+
+acrylic	B-PRODUCT
+Children's	I-PRODUCT
+
+acrylic	B-PRODUCT
+Door	I-PRODUCT
+
+acrylic	B-PRODUCT
+Hutch	I-PRODUCT
+
+acrylic	B-PRODUCT
+Park	I-PRODUCT
+
+acrylic	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+built-in	B-PRODUCT
+chair	I-PRODUCT
+
+built-in	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+built-in	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+built-in	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+built-in	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+built-in	B-PRODUCT
+fauteuli	I-PRODUCT
+
+built-in	B-PRODUCT
+Ottoman	I-PRODUCT
+
+built-in	B-PRODUCT
+Recliner	I-PRODUCT
+
+built-in	B-PRODUCT
+stool	I-PRODUCT
+
+built-in	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+built-in	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+built-in	B-PRODUCT
+tuffet	I-PRODUCT
+
+built-in	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+built-in	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+built-in	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+built-in	B-PRODUCT
+Poufy	I-PRODUCT
+
+built-in	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+built-in	B-PRODUCT
+Bench	I-PRODUCT
+
+built-in	B-PRODUCT
+couch	I-PRODUCT
+
+built-in	B-PRODUCT
+Accubita	I-PRODUCT
+
+built-in	B-PRODUCT
+Canape	I-PRODUCT
+
+built-in	B-PRODUCT
+Davenport	I-PRODUCT
+
+built-in	B-PRODUCT
+Klinai	I-PRODUCT
+
+built-in	B-PRODUCT
+Divan	I-PRODUCT
+
+built-in	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+built-in	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+built-in	B-PRODUCT
+Bed	I-PRODUCT
+
+built-in	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+built-in	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+built-in	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+built-in	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+built-in	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+built-in	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+built-in	B-PRODUCT
+Waterbed	I-PRODUCT
+
+built-in	B-PRODUCT
+Daybed	I-PRODUCT
+
+built-in	B-PRODUCT
+Futon	I-PRODUCT
+
+built-in	B-PRODUCT
+Hammock	I-PRODUCT
+
+built-in	B-PRODUCT
+Headboard	I-PRODUCT
+
+built-in	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+built-in	B-PRODUCT
+Convertible	I-PRODUCT
+
+built-in	B-PRODUCT
+cradle	I-PRODUCT
+
+built-in	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+built-in	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+built-in	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+built-in	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+built-in	B-PRODUCT
+Gramophone	I-PRODUCT
+
+built-in	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+built-in	B-PRODUCT
+Jukebox	I-PRODUCT
+
+built-in	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+built-in	B-PRODUCT
+Radiogram	I-PRODUCT
+
+built-in	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+built-in	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+built-in	B-PRODUCT
+Piano	I-PRODUCT
+
+built-in	B-PRODUCT
+TV	I-PRODUCT
+
+built-in	B-PRODUCT
+Countertop	I-PRODUCT
+
+built-in	B-PRODUCT
+Chabudai	I-PRODUCT
+
+built-in	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+Desk	I-PRODUCT
+
+built-in	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+built-in	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+built-in	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+built-in	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+built-in	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+built-in	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+built-in	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+built-in	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+Lowboy	I-PRODUCT
+
+built-in	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+built-in	B-PRODUCT
+Korsi	I-PRODUCT
+
+built-in	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+built-in	B-PRODUCT
+Soban	I-PRODUCT
+
+built-in	B-PRODUCT
+Table	I-PRODUCT
+
+built-in	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+built-in	B-PRODUCT
+Washstand	I-PRODUCT
+
+built-in	B-PRODUCT
+Workbench	I-PRODUCT
+
+built-in	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+built-in	B-PRODUCT
+Bookcase	I-PRODUCT
+
+built-in	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+built-in	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+built-in	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+built-in	B-PRODUCT
+Closet	I-PRODUCT
+
+built-in	B-PRODUCT
+Credenza	I-PRODUCT
+
+built-in	B-PRODUCT
+Cupboard	I-PRODUCT
+
+built-in	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+built-in	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+built-in	B-PRODUCT
+Hutch	I-PRODUCT
+
+built-in	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+built-in	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+built-in	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+built-in	B-PRODUCT
+Pantry	I-PRODUCT
+
+built-in	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+built-in	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+built-in	B-PRODUCT
+Sideboard	I-PRODUCT
+
+built-in	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+built-in	B-PRODUCT
+dresser	I-PRODUCT
+
+built-in	B-PRODUCT
+Chest	I-PRODUCT
+
+built-in	B-PRODUCT
+Cellarette	I-PRODUCT
+
+built-in	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+built-in	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+built-in	B-PRODUCT
+Drawer	I-PRODUCT
+
+built-in	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+built-in	B-PRODUCT
+Hatstand	I-PRODUCT
+
+built-in	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+built-in	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+built-in	B-PRODUCT
+Lowboy	I-PRODUCT
+
+built-in	B-PRODUCT
+Nightstand	I-PRODUCT
+
+built-in	B-PRODUCT
+Ottoman	I-PRODUCT
+
+built-in	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+built-in	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+built-in	B-PRODUCT
+Shelving	I-PRODUCT
+
+built-in	B-PRODUCT
+Sideboard	I-PRODUCT
+
+built-in	B-PRODUCT
+buffet	I-PRODUCT
+
+built-in	B-PRODUCT
+Tallboy	I-PRODUCT
+
+built-in	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+built-in	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+built-in	B-PRODUCT
+armorie	I-PRODUCT
+
+built-in	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+built-in	B-PRODUCT
+Commode	I-PRODUCT
+
+built-in	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+built-in	B-PRODUCT
+Dinette	I-PRODUCT
+
+built-in	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+built-in	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+built-in	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+built-in	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+built-in	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+built-in	B-PRODUCT
+Credenza	I-PRODUCT
+
+built-in	B-PRODUCT
+Divider	I-PRODUCT
+
+built-in	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+built-in	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+built-in	B-PRODUCT
+Lamps	I-PRODUCT
+
+built-in	B-PRODUCT
+Taboret	I-PRODUCT
+
+built-in	B-PRODUCT
+Tatami	I-PRODUCT
+
+built-in	B-PRODUCT
+Aquarium	I-PRODUCT
+
+built-in	B-PRODUCT
+bar	I-PRODUCT
+
+built-in	B-PRODUCT
+Children's	I-PRODUCT
+
+built-in	B-PRODUCT
+Door	I-PRODUCT
+
+built-in	B-PRODUCT
+Hutch	I-PRODUCT
+
+built-in	B-PRODUCT
+Park	I-PRODUCT
+
+built-in	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+Campaign	B-PRODUCT
+chair	I-PRODUCT
+
+Campaign	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+Campaign	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+Campaign	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+Campaign	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+Campaign	B-PRODUCT
+fauteuli	I-PRODUCT
+
+Campaign	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Campaign	B-PRODUCT
+Recliner	I-PRODUCT
+
+Campaign	B-PRODUCT
+stool	I-PRODUCT
+
+Campaign	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+Campaign	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+Campaign	B-PRODUCT
+tuffet	I-PRODUCT
+
+Campaign	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+Campaign	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+Campaign	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+Campaign	B-PRODUCT
+Poufy	I-PRODUCT
+
+Campaign	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+Campaign	B-PRODUCT
+Bench	I-PRODUCT
+
+Campaign	B-PRODUCT
+couch	I-PRODUCT
+
+Campaign	B-PRODUCT
+Accubita	I-PRODUCT
+
+Campaign	B-PRODUCT
+Canape	I-PRODUCT
+
+Campaign	B-PRODUCT
+Davenport	I-PRODUCT
+
+Campaign	B-PRODUCT
+Klinai	I-PRODUCT
+
+Campaign	B-PRODUCT
+Divan	I-PRODUCT
+
+Campaign	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+Campaign	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+Campaign	B-PRODUCT
+Bed	I-PRODUCT
+
+Campaign	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+Campaign	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+Campaign	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+Campaign	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+Campaign	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+Campaign	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+Campaign	B-PRODUCT
+Waterbed	I-PRODUCT
+
+Campaign	B-PRODUCT
+Daybed	I-PRODUCT
+
+Campaign	B-PRODUCT
+Futon	I-PRODUCT
+
+Campaign	B-PRODUCT
+Hammock	I-PRODUCT
+
+Campaign	B-PRODUCT
+Headboard	I-PRODUCT
+
+Campaign	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+Campaign	B-PRODUCT
+Convertible	I-PRODUCT
+
+Campaign	B-PRODUCT
+cradle	I-PRODUCT
+
+Campaign	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+Campaign	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+Campaign	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+Campaign	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+Campaign	B-PRODUCT
+Gramophone	I-PRODUCT
+
+Campaign	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+Campaign	B-PRODUCT
+Jukebox	I-PRODUCT
+
+Campaign	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+Campaign	B-PRODUCT
+Radiogram	I-PRODUCT
+
+Campaign	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+Campaign	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+Campaign	B-PRODUCT
+Piano	I-PRODUCT
+
+Campaign	B-PRODUCT
+TV	I-PRODUCT
+
+Campaign	B-PRODUCT
+Countertop	I-PRODUCT
+
+Campaign	B-PRODUCT
+Chabudai	I-PRODUCT
+
+Campaign	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+Desk	I-PRODUCT
+
+Campaign	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+Campaign	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+Campaign	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+Campaign	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+Campaign	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+Campaign	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+Campaign	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+Campaign	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Campaign	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+Campaign	B-PRODUCT
+Korsi	I-PRODUCT
+
+Campaign	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+Campaign	B-PRODUCT
+Soban	I-PRODUCT
+
+Campaign	B-PRODUCT
+Table	I-PRODUCT
+
+Campaign	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+Campaign	B-PRODUCT
+Washstand	I-PRODUCT
+
+Campaign	B-PRODUCT
+Workbench	I-PRODUCT
+
+Campaign	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+Campaign	B-PRODUCT
+Bookcase	I-PRODUCT
+
+Campaign	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+Campaign	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+Campaign	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+Campaign	B-PRODUCT
+Closet	I-PRODUCT
+
+Campaign	B-PRODUCT
+Credenza	I-PRODUCT
+
+Campaign	B-PRODUCT
+Cupboard	I-PRODUCT
+
+Campaign	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+Campaign	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+Campaign	B-PRODUCT
+Hutch	I-PRODUCT
+
+Campaign	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+Campaign	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+Campaign	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+Campaign	B-PRODUCT
+Pantry	I-PRODUCT
+
+Campaign	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+Campaign	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+Campaign	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Campaign	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+Campaign	B-PRODUCT
+dresser	I-PRODUCT
+
+Campaign	B-PRODUCT
+Chest	I-PRODUCT
+
+Campaign	B-PRODUCT
+Cellarette	I-PRODUCT
+
+Campaign	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+Campaign	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+Campaign	B-PRODUCT
+Drawer	I-PRODUCT
+
+Campaign	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+Campaign	B-PRODUCT
+Hatstand	I-PRODUCT
+
+Campaign	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+Campaign	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+Campaign	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Campaign	B-PRODUCT
+Nightstand	I-PRODUCT
+
+Campaign	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Campaign	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+Campaign	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+Campaign	B-PRODUCT
+Shelving	I-PRODUCT
+
+Campaign	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Campaign	B-PRODUCT
+buffet	I-PRODUCT
+
+Campaign	B-PRODUCT
+Tallboy	I-PRODUCT
+
+Campaign	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+Campaign	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+Campaign	B-PRODUCT
+armorie	I-PRODUCT
+
+Campaign	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+Campaign	B-PRODUCT
+Commode	I-PRODUCT
+
+Campaign	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+Campaign	B-PRODUCT
+Dinette	I-PRODUCT
+
+Campaign	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+Campaign	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+Campaign	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+Campaign	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+Campaign	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+Campaign	B-PRODUCT
+Credenza	I-PRODUCT
+
+Campaign	B-PRODUCT
+Divider	I-PRODUCT
+
+Campaign	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+Campaign	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+Campaign	B-PRODUCT
+Lamps	I-PRODUCT
+
+Campaign	B-PRODUCT
+Taboret	I-PRODUCT
+
+Campaign	B-PRODUCT
+Tatami	I-PRODUCT
+
+Campaign	B-PRODUCT
+Aquarium	I-PRODUCT
+
+Campaign	B-PRODUCT
+bar	I-PRODUCT
+
+Campaign	B-PRODUCT
+Children's	I-PRODUCT
+
+Campaign	B-PRODUCT
+Door	I-PRODUCT
+
+Campaign	B-PRODUCT
+Hutch	I-PRODUCT
+
+Campaign	B-PRODUCT
+Park	I-PRODUCT
+
+Campaign	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+Work	B-PRODUCT
+chair	I-PRODUCT
+
+Work	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+Work	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+Work	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+Work	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+Work	B-PRODUCT
+fauteuli	I-PRODUCT
+
+Work	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Work	B-PRODUCT
+Recliner	I-PRODUCT
+
+Work	B-PRODUCT
+stool	I-PRODUCT
+
+Work	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+Work	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+Work	B-PRODUCT
+tuffet	I-PRODUCT
+
+Work	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+Work	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+Work	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+Work	B-PRODUCT
+Poufy	I-PRODUCT
+
+Work	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+Work	B-PRODUCT
+Bench	I-PRODUCT
+
+Work	B-PRODUCT
+couch	I-PRODUCT
+
+Work	B-PRODUCT
+Accubita	I-PRODUCT
+
+Work	B-PRODUCT
+Canape	I-PRODUCT
+
+Work	B-PRODUCT
+Davenport	I-PRODUCT
+
+Work	B-PRODUCT
+Klinai	I-PRODUCT
+
+Work	B-PRODUCT
+Divan	I-PRODUCT
+
+Work	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+Work	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+Work	B-PRODUCT
+Bed	I-PRODUCT
+
+Work	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+Work	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+Work	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+Work	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+Work	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+Work	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+Work	B-PRODUCT
+Waterbed	I-PRODUCT
+
+Work	B-PRODUCT
+Daybed	I-PRODUCT
+
+Work	B-PRODUCT
+Futon	I-PRODUCT
+
+Work	B-PRODUCT
+Hammock	I-PRODUCT
+
+Work	B-PRODUCT
+Headboard	I-PRODUCT
+
+Work	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+Work	B-PRODUCT
+Convertible	I-PRODUCT
+
+Work	B-PRODUCT
+cradle	I-PRODUCT
+
+Work	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+Work	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+Work	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+Work	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+Work	B-PRODUCT
+Gramophone	I-PRODUCT
+
+Work	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+Work	B-PRODUCT
+Jukebox	I-PRODUCT
+
+Work	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+Work	B-PRODUCT
+Radiogram	I-PRODUCT
+
+Work	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+Work	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+Work	B-PRODUCT
+Piano	I-PRODUCT
+
+Work	B-PRODUCT
+TV	I-PRODUCT
+
+Work	B-PRODUCT
+Countertop	I-PRODUCT
+
+Work	B-PRODUCT
+Chabudai	I-PRODUCT
+
+Work	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+Desk	I-PRODUCT
+
+Work	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+Work	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+Work	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+Work	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+Work	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+Work	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+Work	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+Work	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Work	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+Work	B-PRODUCT
+Korsi	I-PRODUCT
+
+Work	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+Work	B-PRODUCT
+Soban	I-PRODUCT
+
+Work	B-PRODUCT
+Table	I-PRODUCT
+
+Work	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+Work	B-PRODUCT
+Washstand	I-PRODUCT
+
+Work	B-PRODUCT
+Workbench	I-PRODUCT
+
+Work	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+Work	B-PRODUCT
+Bookcase	I-PRODUCT
+
+Work	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+Work	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+Work	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+Work	B-PRODUCT
+Closet	I-PRODUCT
+
+Work	B-PRODUCT
+Credenza	I-PRODUCT
+
+Work	B-PRODUCT
+Cupboard	I-PRODUCT
+
+Work	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+Work	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+Work	B-PRODUCT
+Hutch	I-PRODUCT
+
+Work	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+Work	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+Work	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+Work	B-PRODUCT
+Pantry	I-PRODUCT
+
+Work	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+Work	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+Work	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Work	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+Work	B-PRODUCT
+dresser	I-PRODUCT
+
+Work	B-PRODUCT
+Chest	I-PRODUCT
+
+Work	B-PRODUCT
+Cellarette	I-PRODUCT
+
+Work	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+Work	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+Work	B-PRODUCT
+Drawer	I-PRODUCT
+
+Work	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+Work	B-PRODUCT
+Hatstand	I-PRODUCT
+
+Work	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+Work	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+Work	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Work	B-PRODUCT
+Nightstand	I-PRODUCT
+
+Work	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Work	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+Work	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+Work	B-PRODUCT
+Shelving	I-PRODUCT
+
+Work	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Work	B-PRODUCT
+buffet	I-PRODUCT
+
+Work	B-PRODUCT
+Tallboy	I-PRODUCT
+
+Work	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+Work	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+Work	B-PRODUCT
+armorie	I-PRODUCT
+
+Work	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+Work	B-PRODUCT
+Commode	I-PRODUCT
+
+Work	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+Work	B-PRODUCT
+Dinette	I-PRODUCT
+
+Work	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+Work	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+Work	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+Work	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+Work	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+Work	B-PRODUCT
+Credenza	I-PRODUCT
+
+Work	B-PRODUCT
+Divider	I-PRODUCT
+
+Work	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+Work	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+Work	B-PRODUCT
+Lamps	I-PRODUCT
+
+Work	B-PRODUCT
+Taboret	I-PRODUCT
+
+Work	B-PRODUCT
+Tatami	I-PRODUCT
+
+Work	B-PRODUCT
+Aquarium	I-PRODUCT
+
+Work	B-PRODUCT
+bar	I-PRODUCT
+
+Work	B-PRODUCT
+Children's	I-PRODUCT
+
+Work	B-PRODUCT
+Door	I-PRODUCT
+
+Work	B-PRODUCT
+Hutch	I-PRODUCT
+
+Work	B-PRODUCT
+Park	I-PRODUCT
+
+Work	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+Aquarium	B-PRODUCT
+chair	I-PRODUCT
+
+Aquarium	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+Aquarium	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+Aquarium	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+Aquarium	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+Aquarium	B-PRODUCT
+fauteuli	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Recliner	I-PRODUCT
+
+Aquarium	B-PRODUCT
+stool	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+Aquarium	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+Aquarium	B-PRODUCT
+tuffet	I-PRODUCT
+
+Aquarium	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+Aquarium	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+Aquarium	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Poufy	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Bench	I-PRODUCT
+
+Aquarium	B-PRODUCT
+couch	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Accubita	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Canape	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Davenport	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Klinai	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Divan	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Bed	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Waterbed	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Daybed	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Futon	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Hammock	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Headboard	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Convertible	I-PRODUCT
+
+Aquarium	B-PRODUCT
+cradle	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Gramophone	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Jukebox	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Radiogram	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Piano	I-PRODUCT
+
+Aquarium	B-PRODUCT
+TV	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Countertop	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Chabudai	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Desk	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Korsi	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Soban	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Washstand	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Workbench	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Bookcase	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Closet	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Credenza	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Cupboard	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Hutch	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+Aquarium	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Pantry	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+Aquarium	B-PRODUCT
+dresser	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Chest	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Cellarette	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Drawer	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Hatstand	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Nightstand	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Shelving	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Aquarium	B-PRODUCT
+buffet	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Tallboy	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+Aquarium	B-PRODUCT
+armorie	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Commode	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Dinette	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+Aquarium	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Credenza	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Divider	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Lamps	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Taboret	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Tatami	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Aquarium	I-PRODUCT
+
+Aquarium	B-PRODUCT
+bar	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Children's	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Door	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Hutch	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Park	I-PRODUCT
+
+Aquarium	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+Street	B-PRODUCT
+chair	I-PRODUCT
+
+Street	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+Street	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+Street	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+Street	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+Street	B-PRODUCT
+fauteuli	I-PRODUCT
+
+Street	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Street	B-PRODUCT
+Recliner	I-PRODUCT
+
+Street	B-PRODUCT
+stool	I-PRODUCT
+
+Street	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+Street	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+Street	B-PRODUCT
+tuffet	I-PRODUCT
+
+Street	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+Street	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+Street	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+Street	B-PRODUCT
+Poufy	I-PRODUCT
+
+Street	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+Street	B-PRODUCT
+Bench	I-PRODUCT
+
+Street	B-PRODUCT
+couch	I-PRODUCT
+
+Street	B-PRODUCT
+Accubita	I-PRODUCT
+
+Street	B-PRODUCT
+Canape	I-PRODUCT
+
+Street	B-PRODUCT
+Davenport	I-PRODUCT
+
+Street	B-PRODUCT
+Klinai	I-PRODUCT
+
+Street	B-PRODUCT
+Divan	I-PRODUCT
+
+Street	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+Street	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+Street	B-PRODUCT
+Bed	I-PRODUCT
+
+Street	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+Street	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+Street	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+Street	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+Street	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+Street	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+Street	B-PRODUCT
+Waterbed	I-PRODUCT
+
+Street	B-PRODUCT
+Daybed	I-PRODUCT
+
+Street	B-PRODUCT
+Futon	I-PRODUCT
+
+Street	B-PRODUCT
+Hammock	I-PRODUCT
+
+Street	B-PRODUCT
+Headboard	I-PRODUCT
+
+Street	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+Street	B-PRODUCT
+Convertible	I-PRODUCT
+
+Street	B-PRODUCT
+cradle	I-PRODUCT
+
+Street	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+Street	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+Street	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+Street	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+Street	B-PRODUCT
+Gramophone	I-PRODUCT
+
+Street	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+Street	B-PRODUCT
+Jukebox	I-PRODUCT
+
+Street	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+Street	B-PRODUCT
+Radiogram	I-PRODUCT
+
+Street	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+Street	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+Street	B-PRODUCT
+Piano	I-PRODUCT
+
+Street	B-PRODUCT
+TV	I-PRODUCT
+
+Street	B-PRODUCT
+Countertop	I-PRODUCT
+
+Street	B-PRODUCT
+Chabudai	I-PRODUCT
+
+Street	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+Desk	I-PRODUCT
+
+Street	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+Street	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+Street	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+Street	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+Street	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+Street	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+Street	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+Street	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Street	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+Street	B-PRODUCT
+Korsi	I-PRODUCT
+
+Street	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+Street	B-PRODUCT
+Soban	I-PRODUCT
+
+Street	B-PRODUCT
+Table	I-PRODUCT
+
+Street	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+Street	B-PRODUCT
+Washstand	I-PRODUCT
+
+Street	B-PRODUCT
+Workbench	I-PRODUCT
+
+Street	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+Street	B-PRODUCT
+Bookcase	I-PRODUCT
+
+Street	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+Street	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+Street	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+Street	B-PRODUCT
+Closet	I-PRODUCT
+
+Street	B-PRODUCT
+Credenza	I-PRODUCT
+
+Street	B-PRODUCT
+Cupboard	I-PRODUCT
+
+Street	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+Street	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+Street	B-PRODUCT
+Hutch	I-PRODUCT
+
+Street	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+Street	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+Street	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+Street	B-PRODUCT
+Pantry	I-PRODUCT
+
+Street	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+Street	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+Street	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Street	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+Street	B-PRODUCT
+dresser	I-PRODUCT
+
+Street	B-PRODUCT
+Chest	I-PRODUCT
+
+Street	B-PRODUCT
+Cellarette	I-PRODUCT
+
+Street	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+Street	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+Street	B-PRODUCT
+Drawer	I-PRODUCT
+
+Street	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+Street	B-PRODUCT
+Hatstand	I-PRODUCT
+
+Street	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+Street	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+Street	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Street	B-PRODUCT
+Nightstand	I-PRODUCT
+
+Street	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Street	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+Street	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+Street	B-PRODUCT
+Shelving	I-PRODUCT
+
+Street	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Street	B-PRODUCT
+buffet	I-PRODUCT
+
+Street	B-PRODUCT
+Tallboy	I-PRODUCT
+
+Street	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+Street	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+Street	B-PRODUCT
+armorie	I-PRODUCT
+
+Street	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+Street	B-PRODUCT
+Commode	I-PRODUCT
+
+Street	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+Street	B-PRODUCT
+Dinette	I-PRODUCT
+
+Street	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+Street	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+Street	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+Street	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+Street	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+Street	B-PRODUCT
+Credenza	I-PRODUCT
+
+Street	B-PRODUCT
+Divider	I-PRODUCT
+
+Street	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+Street	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+Street	B-PRODUCT
+Lamps	I-PRODUCT
+
+Street	B-PRODUCT
+Taboret	I-PRODUCT
+
+Street	B-PRODUCT
+Tatami	I-PRODUCT
+
+Street	B-PRODUCT
+Aquarium	I-PRODUCT
+
+Street	B-PRODUCT
+bar	I-PRODUCT
+
+Street	B-PRODUCT
+Children's	I-PRODUCT
+
+Street	B-PRODUCT
+Door	I-PRODUCT
+
+Street	B-PRODUCT
+Hutch	I-PRODUCT
+
+Street	B-PRODUCT
+Park	I-PRODUCT
+
+Street	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
+Sword	B-PRODUCT
+chair	I-PRODUCT
+
+Sword	B-PRODUCT
+office	I-PRODUCT
+chair	I-PRODUCT
+
+Sword	B-PRODUCT
+lift	I-PRODUCT
+chair	I-PRODUCT
+
+Sword	B-PRODUCT
+bean	I-PRODUCT
+bag	I-PRODUCT
+chair	I-PRODUCT
+
+Sword	B-PRODUCT
+chaise	I-PRODUCT
+longue	I-PRODUCT
+
+Sword	B-PRODUCT
+fauteuli	I-PRODUCT
+
+Sword	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Sword	B-PRODUCT
+Recliner	I-PRODUCT
+
+Sword	B-PRODUCT
+stool	I-PRODUCT
+
+Sword	B-PRODUCT
+Bar	I-PRODUCT
+stool	I-PRODUCT
+
+Sword	B-PRODUCT
+foot	I-PRODUCT
+stool	I-PRODUCT
+
+Sword	B-PRODUCT
+tuffet	I-PRODUCT
+
+Sword	B-PRODUCT
+fainting	I-PRODUCT
+couch	I-PRODUCT
+
+Sword	B-PRODUCT
+rocking	I-PRODUCT
+chair	I-PRODUCT
+
+Sword	B-PRODUCT
+bar	I-PRODUCT
+chair	I-PRODUCT
+
+Sword	B-PRODUCT
+Poufy	I-PRODUCT
+
+Sword	B-PRODUCT
+Arm	I-PRODUCT
+chair	I-PRODUCT
+
+Sword	B-PRODUCT
+Bench	I-PRODUCT
+
+Sword	B-PRODUCT
+couch	I-PRODUCT
+
+Sword	B-PRODUCT
+Accubita	I-PRODUCT
+
+Sword	B-PRODUCT
+Canape	I-PRODUCT
+
+Sword	B-PRODUCT
+Davenport	I-PRODUCT
+
+Sword	B-PRODUCT
+Klinai	I-PRODUCT
+
+Sword	B-PRODUCT
+Divan	I-PRODUCT
+
+Sword	B-PRODUCT
+Love	I-PRODUCT
+seat	I-PRODUCT
+
+Sword	B-PRODUCT
+Chesterfield	I-PRODUCT
+
+Sword	B-PRODUCT
+Bed	I-PRODUCT
+
+Sword	B-PRODUCT
+Bunk	I-PRODUCT
+bed	I-PRODUCT
+
+Sword	B-PRODUCT
+Canopy	I-PRODUCT
+bed	I-PRODUCT
+
+Sword	B-PRODUCT
+Four-poster	I-PRODUCT
+bed	I-PRODUCT
+
+Sword	B-PRODUCT
+Murphy	I-PRODUCT
+bed	I-PRODUCT
+
+Sword	B-PRODUCT
+Platform	I-PRODUCT
+bed	I-PRODUCT
+
+Sword	B-PRODUCT
+Sleigh	I-PRODUCT
+bed	I-PRODUCT
+
+Sword	B-PRODUCT
+Waterbed	I-PRODUCT
+
+Sword	B-PRODUCT
+Daybed	I-PRODUCT
+
+Sword	B-PRODUCT
+Futon	I-PRODUCT
+
+Sword	B-PRODUCT
+Hammock	I-PRODUCT
+
+Sword	B-PRODUCT
+Headboard	I-PRODUCT
+
+Sword	B-PRODUCT
+Infant	I-PRODUCT
+bed	I-PRODUCT
+
+Sword	B-PRODUCT
+Convertible	I-PRODUCT
+
+Sword	B-PRODUCT
+cradle	I-PRODUCT
+
+Sword	B-PRODUCT
+Sofa	I-PRODUCT
+bed	I-PRODUCT
+
+Sword	B-PRODUCT
+Toddler	I-PRODUCT
+bed	I-PRODUCT
+
+Sword	B-PRODUCT
+Billiard	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+Celestial	I-PRODUCT
+globe	I-PRODUCT
+
+Sword	B-PRODUCT
+Chess	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+Entertainment	I-PRODUCT
+center	I-PRODUCT
+
+Sword	B-PRODUCT
+Gramophone	I-PRODUCT
+
+Sword	B-PRODUCT
+Hi-fi	I-PRODUCT
+
+Sword	B-PRODUCT
+Jukebox	I-PRODUCT
+
+Sword	B-PRODUCT
+Pinball	I-PRODUCT
+machine	I-PRODUCT
+
+Sword	B-PRODUCT
+Radiogram	I-PRODUCT
+
+Sword	B-PRODUCT
+Home	I-PRODUCT
+bar	I-PRODUCT
+
+Sword	B-PRODUCT
+Radio	I-PRODUCT
+reciever	I-PRODUCT
+
+Sword	B-PRODUCT
+Piano	I-PRODUCT
+
+Sword	B-PRODUCT
+TV	I-PRODUCT
+
+Sword	B-PRODUCT
+Countertop	I-PRODUCT
+
+Sword	B-PRODUCT
+Chabudai	I-PRODUCT
+
+Sword	B-PRODUCT
+Changing	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+Desk	I-PRODUCT
+
+Sword	B-PRODUCT
+Computer	I-PRODUCT
+desk	I-PRODUCT
+
+Sword	B-PRODUCT
+Davenport	I-PRODUCT
+desk	I-PRODUCT
+
+Sword	B-PRODUCT
+Drawing	I-PRODUCT
+Board	I-PRODUCT
+
+Sword	B-PRODUCT
+Writing	I-PRODUCT
+desk	I-PRODUCT
+
+Sword	B-PRODUCT
+Pedestal	I-PRODUCT
+desk	I-PRODUCT
+
+Sword	B-PRODUCT
+Kneehole	I-PRODUCT
+desk	I-PRODUCT
+
+Sword	B-PRODUCT
+Secretary	I-PRODUCT
+desk	I-PRODUCT
+
+Sword	B-PRODUCT
+Dressing	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Sword	B-PRODUCT
+Kotatsu	I-PRODUCT
+
+Sword	B-PRODUCT
+Korsi	I-PRODUCT
+
+Sword	B-PRODUCT
+Monks	I-PRODUCT
+bench	I-PRODUCT
+
+Sword	B-PRODUCT
+Soban	I-PRODUCT
+
+Sword	B-PRODUCT
+Table	I-PRODUCT
+
+Sword	B-PRODUCT
+Coffe	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+Dining	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+Drop-leaf	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+End	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+Game	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+Gateleg	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+Poker	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+Refectory	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+Trestle	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+TV	I-PRODUCT
+tray	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+Wine	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+Sewing	I-PRODUCT
+table	I-PRODUCT
+
+Sword	B-PRODUCT
+Washstand	I-PRODUCT
+
+Sword	B-PRODUCT
+Workbench	I-PRODUCT
+
+Sword	B-PRODUCT
+Baker's	I-PRODUCT
+Rack	I-PRODUCT
+
+Sword	B-PRODUCT
+Bookcase	I-PRODUCT
+
+Sword	B-PRODUCT
+Cabinetry	I-PRODUCT
+
+Sword	B-PRODUCT
+Bathroom	I-PRODUCT
+cabinet	I-PRODUCT
+
+Sword	B-PRODUCT
+Chifforobe	I-PRODUCT
+
+Sword	B-PRODUCT
+Closet	I-PRODUCT
+
+Sword	B-PRODUCT
+Credenza	I-PRODUCT
+
+Sword	B-PRODUCT
+Cupboard	I-PRODUCT
+
+Sword	B-PRODUCT
+Curio	I-PRODUCT
+cabinet	I-PRODUCT
+
+Sword	B-PRODUCT
+Gun	I-PRODUCT
+cabinet	I-PRODUCT
+
+Sword	B-PRODUCT
+Hutch	I-PRODUCT
+
+Sword	B-PRODUCT
+Hoosier	I-PRODUCT
+cabinet	I-PRODUCT
+
+Sword	B-PRODUCT
+kitchen	I-PRODUCT
+cabinet	I-PRODUCT
+
+Sword	B-PRODUCT
+Liquor	I-PRODUCT
+cabinet	I-PRODUCT
+
+Sword	B-PRODUCT
+Pantry	I-PRODUCT
+
+Sword	B-PRODUCT
+Pie	I-PRODUCT
+safe	I-PRODUCT
+
+Sword	B-PRODUCT
+Stipo	I-PRODUCT
+a	I-PRODUCT
+bambocci	I-PRODUCT
+
+Sword	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Sword	B-PRODUCT
+Chest	I-PRODUCT
+of	I-PRODUCT
+drawers	I-PRODUCT
+
+Sword	B-PRODUCT
+dresser	I-PRODUCT
+
+Sword	B-PRODUCT
+Chest	I-PRODUCT
+
+Sword	B-PRODUCT
+Cellarette	I-PRODUCT
+
+Sword	B-PRODUCT
+Hope	I-PRODUCT
+Chest	I-PRODUCT
+
+Sword	B-PRODUCT
+Coat	I-PRODUCT
+rack	I-PRODUCT
+
+Sword	B-PRODUCT
+Drawer	I-PRODUCT
+
+Sword	B-PRODUCT
+Hall	I-PRODUCT
+Tree	I-PRODUCT
+
+Sword	B-PRODUCT
+Hatstand	I-PRODUCT
+
+Sword	B-PRODUCT
+Bar	I-PRODUCT
+cabinet	I-PRODUCT
+
+Sword	B-PRODUCT
+Floating	I-PRODUCT
+shelf	I-PRODUCT
+
+Sword	B-PRODUCT
+Lowboy	I-PRODUCT
+
+Sword	B-PRODUCT
+Nightstand	I-PRODUCT
+
+Sword	B-PRODUCT
+Ottoman	I-PRODUCT
+
+Sword	B-PRODUCT
+Plan	I-PRODUCT
+chest	I-PRODUCT
+
+Sword	B-PRODUCT
+Plant	I-PRODUCT
+stand	I-PRODUCT
+
+Sword	B-PRODUCT
+Shelving	I-PRODUCT
+
+Sword	B-PRODUCT
+Sideboard	I-PRODUCT
+
+Sword	B-PRODUCT
+buffet	I-PRODUCT
+
+Sword	B-PRODUCT
+Tallboy	I-PRODUCT
+
+Sword	B-PRODUCT
+Umbrella	I-PRODUCT
+stand	I-PRODUCT
+
+Sword	B-PRODUCT
+Wardrobe	I-PRODUCT
+
+Sword	B-PRODUCT
+armorie	I-PRODUCT
+
+Sword	B-PRODUCT
+Wine	I-PRODUCT
+rack	I-PRODUCT
+
+Sword	B-PRODUCT
+Commode	I-PRODUCT
+
+Sword	B-PRODUCT
+Bedroom	I-PRODUCT
+set	I-PRODUCT
+
+Sword	B-PRODUCT
+Dinette	I-PRODUCT
+
+Sword	B-PRODUCT
+Dining	I-PRODUCT
+set	I-PRODUCT
+
+Sword	B-PRODUCT
+Vanity	I-PRODUCT
+set	I-PRODUCT
+
+Sword	B-PRODUCT
+Portable	I-PRODUCT
+Lamps	I-PRODUCT
+
+Sword	B-PRODUCT
+Patio	I-PRODUCT
+set	I-PRODUCT
+
+Sword	B-PRODUCT
+clothes	I-PRODUCT
+valet	I-PRODUCT
+
+Sword	B-PRODUCT
+Credenza	I-PRODUCT
+
+Sword	B-PRODUCT
+Divider	I-PRODUCT
+
+Sword	B-PRODUCT
+Folding	I-PRODUCT
+screen	I-PRODUCT
+
+Sword	B-PRODUCT
+Garden	I-PRODUCT
+furniture	I-PRODUCT
+
+Sword	B-PRODUCT
+Lamps	I-PRODUCT
+
+Sword	B-PRODUCT
+Taboret	I-PRODUCT
+
+Sword	B-PRODUCT
+Tatami	I-PRODUCT
+
+Sword	B-PRODUCT
+Aquarium	I-PRODUCT
+
+Sword	B-PRODUCT
+bar	I-PRODUCT
+
+Sword	B-PRODUCT
+Children's	I-PRODUCT
+
+Sword	B-PRODUCT
+Door	I-PRODUCT
+
+Sword	B-PRODUCT
+Hutch	I-PRODUCT
+
+Sword	B-PRODUCT
+Park	I-PRODUCT
+
+Sword	B-PRODUCT
+Stadium	I-PRODUCT
+seating	I-PRODUCT
+
 Premium    B-PRODUCT
 Silk       I-PRODUCT
 Pillowcase I-PRODUCT
